@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Development & Machine Learning.
 - 🌱 I’m currently working as a React Developer.
 - 💞️ I’m looking Senior Full Stack Developer position (React.js, Next.js, Node.js, Laravel).
-- 📫 Reach me on  Gmail:  helloayan171@gmail.com 
 
 <!---
 HelloAyan/HelloAyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
