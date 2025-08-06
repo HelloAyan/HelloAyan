@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayan Ahmed Rabbi, completed BSc in Computer Science and Engineering from IUBAT.
 - 👀 I’m interested in Software Development & Machine Learning.
-- 🌱 I’m currently working as a React Developer.
+- 🌱 I’m currently working as a Software Engineer.
 - 💞️ I’m looking Senior Full Stack Developer position (React.js, Next.js, Node.js, Laravel).
 
 <!---
